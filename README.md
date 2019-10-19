@@ -1,2 +1,5 @@
 # hello
 tests
+
+Hi cilvēki!
+
